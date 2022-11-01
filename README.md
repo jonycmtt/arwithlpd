@@ -12,7 +12,7 @@ I'm Abdur Rahman, a Frontend Web Application Developer from. I Spend most of tim
 
 #### Things I Programming and Code with
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Java](https://img.shields.io/badge/-java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Angular Badge](https://img.shields.io/badge/angular-000000?style=for-the-badge&logo=angular&logoColor=white)](#) [![SQL Badge](https://img.shields.io/badge/Sql-4EA94B?style=for-the-badge&logo=sql&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Angular Badge](https://img.shields.io/badge/angular-000000?style=for-the-badge&logo=angular&logoColor=white)](#) [![SQL Badge](https://img.shields.io/badge/Sql-4EA94B?style=for-the-badge&logo=sql&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 ### My Projects & Ventures
 
