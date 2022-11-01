@@ -1,4 +1,4 @@
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there My Gorgeous friend
 
 I'm Abdur Rahman, a Frontend Web Application Developer from <img src="assets/bangladesh.png" width="18"/>. I Spend most of time coding outstanding projects or Travelling and Sleeping.
 :coffee: &emsp;Connect with me!
