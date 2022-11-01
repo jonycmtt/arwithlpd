@@ -10,7 +10,7 @@ I'm Abdur Rahman, a Frontend Web Application Developer from. I Spend most of tim
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: arwithlpd@gmail.com.
 
-#### Programming knowledge with
+#### Programming knowledge with Online Judge Rangking
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](#) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](#)
 
 #### Development With
