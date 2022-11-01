@@ -44,7 +44,7 @@ I'm Abdur Rahman, a Frontend Web Application Developer from. I Spend most of tim
     <tr>
       <td><a href="/" target="_blank">financial management system</a></td>
       <td>financial management system is the software and processes used to manage income, expenses, and assets in an organization. In addition to supporting daily financial operations, the purpose of a financial management system is to maximize profits and ensure long-term enterprise sustainability</td>
-      <td> Startup </td>
+      <td> Dashboard </td>
     </tr>
   </tbody>
 </table>
