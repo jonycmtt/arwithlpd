@@ -1,6 +1,6 @@
 ## Hi there My Gorgeous friend
 
-I'm Abdur Rahman, a Frontend Developer. I Spend most of time coding outstanding projects or Travelling and Sleeping.
+I'm Abdur Rahman, A Frontend Developer. I Spend most of time coding outstanding projects or Travelling and Sleeping.
 
 :coffee: &emsp;Connect with me!
 
