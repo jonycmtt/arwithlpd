@@ -21,19 +21,13 @@ I'm Abdur Rahman, A Frontend Developer. I Spend most of time coding outstanding 
 
 #### HackerRank Certificates
 
-<a href="Skills%20Certification/C%23%20(Basic)%20Certificate.png">
-    <img src="Badges/c%23_basic_skill.png" alt="C# (Basic) Certificate"/>
+<a href="Hackerrank%20Certification/Java%20Basic.png">
+    <img src="Badges/java%20basic.png" alt="Java (Basic) Certificate"/>
 </a>
-<a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
-    <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
+<a href="Hackerrank%20Certification/JavaScript%20Basic.png">
+    <img src="Badges/javascript%20basic.png" alt="JavaScript (Basic) Certificate"/>
 </a>
-<a href="Skills%20Certification/Java%20(Basic)%20Certificate.png">
-    <img src="Badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/JavaScript%20(Basic)%20Certificate.png">
-    <img src="Badges/javascript_basic_skill.png" alt="JavaScript (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/Node%20(Basic)%20Certificate.png">
+<a href="Hackerrank%20Certification/Node%20Basic.png">
     <img src="Badges/node_basic_skill.png" alt="Node (Basic) Certificate"/>
 </a>
 <a href="Skills%20Certification/React%20(Basic)%20Certificate.png">
