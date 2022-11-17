@@ -18,35 +18,6 @@ I'm Abdur Rahman, A Frontend Developer. I Spend most of time coding outstanding 
 #### Problem Solving For Practice
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arwithlpd) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/arwithlpd) 
 
-
-#### HackerRank Certificates
-
-<a href="Hackerrank%20Certification/Java%20Basic.png">
-    <img src="Badges/java%20basic.png" alt="Java (Basic) Certificate"/>
-</a>
-<a href="Hackerrank%20Certification/JavaScript%20Basic.png">
-    <img src="Badges/javascript%20basic.png" alt="JavaScript (Basic) Certificate"/>
-</a>
-<a href="Hackerrank%20Certification/Node%20Basic.png">
-    <img src="Badges/node_basic_skill.png" alt="Node (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/React%20(Basic)%20Certificate.png">
-    <img src="Badges/react_basic_skill.png" alt="React (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
-    <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/REST%20API%20(Intermediate).png">
-    <img src="Badges/rest_api_intermediate_skill.png" alt="REST API (Intermediate) Certificate"/>
-</a>
-<a href="Skills%20Certification/SQL%20(Basic)%20Certificate.png">
-    <img src="Badges/sql_basic_skill.png" alt="SQL (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/SQL%20(Intermediate)%20Certificate.png">
-    <img src="Badges/sql_intermediate_skill.png" alt="SQL (Intermediate) Certificate"/>
-</a>
-
-
 #### Frontend With
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](#) [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#) [![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)](#) [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](#)
