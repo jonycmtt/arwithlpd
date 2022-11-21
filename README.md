@@ -41,7 +41,7 @@ I Spend most of time coding outstanding projects or Travelling and Sleeping.
   </thead>
   <tbody>
     <tr>
-      <td><a href="/" target="_blank">Learner Programmer Developer</a></td>
+      <td><a href="https://arwithlpd.netlify.app" target="_blank">Learner Programmer Developer</a></td>
       <td>Programming related Learning Platform for Bangladesh</td>
       <td>active learners</td>
     </tr>
