@@ -1,6 +1,8 @@
-## Hi there My Gorgeous friend
+### Hi there My Gorgeous friend
 
-I'm Abdur Rahman, A Frontend Developer. I Spend most of time coding outstanding projects or Travelling and Sleeping.
+I'm Abdur Rahman, My career objective is to become a Frontend software development professional who will be remembered for his work. Enhancing people's’ life through technology is both my passion and profession.I strongly believe that my pre-existing skills will allow me to meet all the needs of your project. Frontend Development is one of my strongest points as well.
+
+I Spend most of time coding outstanding projects or Travelling and Sleeping.
 
 :coffee: &emsp;Connect with me!
 
@@ -26,7 +28,7 @@ I'm Abdur Rahman, A Frontend Developer. I Spend most of time coding outstanding 
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 
-### My Projects & Ventures
+#### My Projects & Ventures
 
 
 <table>
