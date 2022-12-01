@@ -43,12 +43,12 @@ I Spend most of time coding outstanding projects or Travelling and Sleeping.
     <tr>
       <td><a href="https://arwithlpd.netlify.app" target="_blank">Learner Programmer Developer</a></td>
       <td>Programming related Learning Platform for Bangladesh</td>
-      <td>active learners</td>
+      <td>active Development</td>
     </tr>
    <tr>
       <td><a href="https://arwithlpd.netlify.app" target="_blank">Applicant tracking system</a></td>
       <td>An applicant tracking system (ATS) is software for recruiters and employers to track candidates throughout the recruiting and hiring process.</td>
-      <td>active learners</td>
+      <td>active Development</td>
     </tr>
     <tr>
       <td><a href="/" target="_blank">financial management system</a></td>
