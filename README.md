@@ -1,6 +1,12 @@
-### Hi there My Gorgeous friend
+## UX/UI | Front-End Software Engineer - Specialised in React/Angular
 
-I'm Abdur Rahman, My career objective is to become a Frontend software development professional who will be remembered for his work. Enhancing people's’ life through technology is both my passion and profession.I strongly believe that my pre-existing skills will allow me to meet all the needs of your project. Frontend Development is one of my strongest points as well.
+I'm a versatile UX/UI and Front-End Software Engineer with over 2 years of experience in developing and designing intuitive and visually appealing web applications. My specialisation is in React/Angular, and I have a creative eye for design and a passion for creating seamless user experiences.
+
+I am highly organised and take pride in my accuracy and attention to detail. I have a proven track record for delivering high-quality, well-structured code, and have consistently achieved successful outcomes in my work.
+
+I am confident in my ability to work in teams and am always looking for ways to collaborate and come up with innovative ideas. I am also comfortable working independently and I take the initiative to ensure projects are completed to a high standard.
+
+If you are looking for an experienced UX/UI and Front-End Software Engineer who is passionate about creating great user experiences, then please don't hesitate to get in touch. I am confident that I can help you create the perfect web application for your project.
 
 I Spend most of time coding outstanding projects or Travelling and Sleeping.
 
