@@ -1,14 +1,4 @@
-## UX/UI | Front-End Software Engineer - Specialised in React/Angular
-
-I'm a versatile UX/UI and Front-End Software Engineer with over 2 years of experience in developing and designing intuitive and visually appealing web applications. My specialisation is in React/Angular, and I have a creative eye for design and a passion for creating seamless user experiences.
-
-I am highly organised and take pride in my accuracy and attention to detail. I have a proven track record for delivering high-quality, well-structured code, and have consistently achieved successful outcomes in my work.
-
-I am confident in my ability to work in teams and am always looking for ways to collaborate and come up with innovative ideas. I am also comfortable working independently and I take the initiative to ensure projects are completed to a high standard.
-
-If you are looking for an experienced UX/UI and Front-End Software Engineer who is passionate about creating great user experiences, then please don't hesitate to get in touch. I am confident that I can help you create the perfect web application for your project.
-
-I Spend most of time coding outstanding projects or Travelling and Sleeping.
+I am a Front-end Software Engineer with experience in developing user-friendly web applications and websites. Specialized in React and Angular, I have a passion for building interactive UI's that make the user experience more enjoyable and intuitive. I am also well-versed in HTML, CSS, and JavaScript, and have a good understanding of UX/UI principles. With my strong background in software engineering, I am confident I can deliver the best results for any project.
 
 :coffee: &emsp;Connect with me!
 
