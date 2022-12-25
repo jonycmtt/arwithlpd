@@ -44,7 +44,7 @@ I am a Front-end Software Engineer with experience in developing user-friendly w
     <tr>
       <td><a href="https://arwithlpd.netlify.app" target="_blank">Learner Programmer Developer</a></td>
       <td>Programming related Learning Platform for Bangladesh</td>
-      <td>Personal Development</td>
+      <td> University Porject </td>
     </tr>
    <tr>
       <td><a href="https://arwithlpd.netlify.app" target="_blank">Applicant tracking system</a></td>
