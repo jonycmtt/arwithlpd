@@ -22,7 +22,7 @@ I am a Front-end Software Engineer with experience in developing user-friendly w
  
 #### Others
 
-[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![AWS](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 
 #### My Projects & Ventures
 
@@ -37,12 +37,12 @@ I am a Front-end Software Engineer with experience in developing user-friendly w
   </thead>
   <tbody>
    <tr>
-      <td><a href="https://arwithlpd.netlify.app" target="_blank">chat application</a></td>
+      <td><a href="https://chatapp-jx8l.onrender.com/" target="_blank">chat application</a></td>
       <td>A university-specific chat application could be a great way to connect students and faculty. It could provide a platform for discussion, collaboration, and communication</td>
       <td>University Porject </td>
     </tr>
     <tr>
-      <td><a href="https://arwithlpd.netlify.app" target="_blank">Learner Programmer Developer</a></td>
+      <td><a href="https://github.com/arwithlpd/ats" target="_blank">Learner Programmer Developer</a></td>
       <td>Programming related Learning Platform for Bangladesh</td>
       <td> University Porject </td>
     </tr>
