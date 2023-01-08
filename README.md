@@ -1,4 +1,4 @@
-Creative and detail-oriented UI/UX designer and frontend software engineer with 2+ years of experience. Proficient in React and Angular, with a strong foundation in HTML, CSS, and JavaScript. Skilled in creating intuitive and visually appealing user interfaces for web applications. Experienced in collaborating with cross-functional teams to deliver successful projects.
+Creative and detail-oriented UI/UX designer and frontend software engineer with 2+ years of experience. Proficient in React and Angular, with a strong foundation in HTML, CSS, and JavaScript also TypeScript. Skilled in creating intuitive and visually appealing user interfaces for web applications. Experienced in collaborating with cross-functional teams to deliver successful projects.
 
 :coffee: &emsp;Connect with me!
 
