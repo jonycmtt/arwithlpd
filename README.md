@@ -8,7 +8,7 @@ Creative and detail-oriented UI/UX designer and frontend software engineer with 
 
 :hearts: &emsp;I enjoy programming and sharing knowledge  and sleeping <br/>
 🤟 &emsp;I’m currently learning Develoyment React Angular Project On AWS <br/>
-:computer: &emsp;Most used line of code `console.log("hello akaid")` <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: arwithlpd@gmail.com.
 
