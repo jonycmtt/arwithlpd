@@ -10,7 +10,6 @@ Creative and detail-oriented UI/UX designer and frontend software engineer with 
 🤟 &emsp;I’m currently learning Develoyment React Angular Project On AWS <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with ideas and executions.<br/>
-:e-mail: &emsp;How to reach me: arwithlpd@gmail.com.
 
 #### Working Profile
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](#) [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](#) [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](#)
